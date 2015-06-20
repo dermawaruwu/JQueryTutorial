@@ -1,0 +1,12 @@
+div.divbaru {
+	background: #ff4800;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	border-radius: 500px;
+}
+
+div.divbaru h3 {
+	padding-left: 40px;
+	font-size: 30px;
+}
